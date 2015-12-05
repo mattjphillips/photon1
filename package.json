@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^4.13.3",
     "spark": "^1.0.0"
   }
 }
